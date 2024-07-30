@@ -1114,7 +1114,6 @@ iframe {
 
 .bg_blue_img {
     background-color: #01020b !important;
-    background: url(../images/bg_video.png) right top no-repeat;
 }
 .hed_img {
     margin: 30px 0px;
@@ -2960,7 +2959,6 @@ h3.blog-title {
     }
     .bg_blue_img {
         background-color: #01020b !important;
-        background: url(../images/bg_video-c.png) right top no-repeat;
     }
 }
 
