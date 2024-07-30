@@ -450,6 +450,7 @@ dt {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    height: 850px;
 }
 .bg_free_img {
     background-image: url(../images/banner-bg-bottom.png);
